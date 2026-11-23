@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__unityMCP__*"
+    ]
+  },
+  "enabledMcpjsonServers": [
+    "unityMCP"
+  ]
+}

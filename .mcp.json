@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "unityMCP": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "--from",
+        "mcpforunityserver==9.7.1",
+        "mcp-for-unity",
+        "--transport",
+        "stdio"
+      ]
+    }
+  }
+}
