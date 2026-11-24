@@ -1,0 +1,6 @@
+<linker>
+  <!-- FoveationHud calls FoveatedRenderingFeature.Internal_GetFbFoveationLevel via reflection. -->
+  <assembly fullname="Unity.XR.OpenXR">
+    <type fullname="UnityEngine.XR.OpenXR.Features.FoveatedRenderingFeature" preserve="all" />
+  </assembly>
+</linker>
